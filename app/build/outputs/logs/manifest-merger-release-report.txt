@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2665e9c72e860cfc59c22c9f709c6498/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a0340ee444a98a7329cf014c0b36f5e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/81a51377141a5b28891c8b686a3505eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6c6b87463dc99ed0c31abdc534d874af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/bcc20a2f0ef14258f135ffda0546d760/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/7dbc1a54039ce363c51c922670ece065/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/c8c5cc5e693890349d03fcffb952a309/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/d7a1431ca6648254135ec4406530d8bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cd121bcd9a10f3949fff792c5217288b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/05bdcf1dfff4f64007beee194a590b3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ff9d9867d0b978b6c681a3504f5ce14d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/8d2c57c7446a0ab8b239068d5075ce3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f64ed4a261b22283bcad51c956f7be8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6a9ab78ce7d225030e74e23f0fc32d3b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/eeb8e50c15aff2f9a55dda8358e5dab6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ce2a2db088584c3130a50e466d2ff40b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2067623b7a28a65a14cbb338e33b95b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f5383cf5efd87f9cea3a88ada44daa60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/fc902690d409cd6b67ba23b99ae5ca92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/71e8245cbaf41942f4284afb8b2ef2d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cef02ccff77081cca4c0322278eceffa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/841f03ef32f6aa403ae009eeae74468d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:3:11-27
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6a9ab78ce7d225030e74e23f0fc32d3b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6a9ab78ce7d225030e74e23f0fc32d3b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:8:13-39
+	android:label
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:7:13-45
+	android:allowBackup
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:9:13-44
+activity#sample.QuestionActivity
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2665e9c72e860cfc59c22c9f709c6498/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2665e9c72e860cfc59c22c9f709c6498/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a0340ee444a98a7329cf014c0b36f5e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a0340ee444a98a7329cf014c0b36f5e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/81a51377141a5b28891c8b686a3505eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/81a51377141a5b28891c8b686a3505eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6c6b87463dc99ed0c31abdc534d874af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6c6b87463dc99ed0c31abdc534d874af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/bcc20a2f0ef14258f135ffda0546d760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/bcc20a2f0ef14258f135ffda0546d760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/7dbc1a54039ce363c51c922670ece065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/7dbc1a54039ce363c51c922670ece065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/c8c5cc5e693890349d03fcffb952a309/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/c8c5cc5e693890349d03fcffb952a309/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/d7a1431ca6648254135ec4406530d8bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/d7a1431ca6648254135ec4406530d8bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cd121bcd9a10f3949fff792c5217288b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cd121bcd9a10f3949fff792c5217288b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/05bdcf1dfff4f64007beee194a590b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/05bdcf1dfff4f64007beee194a590b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ff9d9867d0b978b6c681a3504f5ce14d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ff9d9867d0b978b6c681a3504f5ce14d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/8d2c57c7446a0ab8b239068d5075ce3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/8d2c57c7446a0ab8b239068d5075ce3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f64ed4a261b22283bcad51c956f7be8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f64ed4a261b22283bcad51c956f7be8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6a9ab78ce7d225030e74e23f0fc32d3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/6a9ab78ce7d225030e74e23f0fc32d3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/eeb8e50c15aff2f9a55dda8358e5dab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/eeb8e50c15aff2f9a55dda8358e5dab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ce2a2db088584c3130a50e466d2ff40b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/ce2a2db088584c3130a50e466d2ff40b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2067623b7a28a65a14cbb338e33b95b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2067623b7a28a65a14cbb338e33b95b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f5383cf5efd87f9cea3a88ada44daa60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/f5383cf5efd87f9cea3a88ada44daa60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/fc902690d409cd6b67ba23b99ae5ca92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/fc902690d409cd6b67ba23b99ae5ca92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/71e8245cbaf41942f4284afb8b2ef2d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/71e8245cbaf41942f4284afb8b2ef2d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cef02ccff77081cca4c0322278eceffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cef02ccff77081cca4c0322278eceffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/841f03ef32f6aa403ae009eeae74468d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/841f03ef32f6aa403ae009eeae74468d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
