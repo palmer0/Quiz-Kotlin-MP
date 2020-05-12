@@ -43,7 +43,7 @@
           <option name="apiVersion" value="1.3" />
           <option name="pluginOptions">
             <array>
-              <option value="plugin:org.jetbrains.kotlin.android:configuration=rO0ABXeWAAAAAwAIZmVhdHVyZXMAAAABAA92aWV3cyxwYXJjZWxpemUAB3BhY2thZ2UAAAABAAZzYW1wbGUAB3ZhcmlhbnQAAAABAE9tYWluOy9Vc2Vycy9MdWlzL0RvY3VtZW50cy9Lb3RsaW4tTXVsdGlwbGF0Zm9ybS9RdWl6LUtvdGxpbi1NUC9hcHAvc3JjL21haW4vcmVz" />
+              <option value="plugin:org.jetbrains.kotlin.android:configuration=rO0ABXeMAAAAAwAIZmVhdHVyZXMAAAABAA92aWV3cyxwYXJjZWxpemUAB3BhY2thZ2UAAAABAAZzYW1wbGUAB3ZhcmlhbnQAAAABAEVtYWluOy9Vc2Vycy9MdWlzL0RvY3VtZW50cy9BbmRyb2lkLURBL1F1aXotS290bGluLU1QL2FwcC9zcmMvbWFpbi9yZXM=" />
             </array>
           </option>
           <option name="pluginClasspaths">

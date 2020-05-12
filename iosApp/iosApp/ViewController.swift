@@ -52,7 +52,12 @@ class ViewController: UIViewController, QuestionViewContract, PlatformProtocol {
     
     func getQuestionResources() -> QuestionResources {
         
-        return QuestionResources(trueLabel: "True",falseLabel: "False",cheatLabel: "Cheat",nextLabel: "Next",correctLabel: "Correct",incorrectLabel: "Incorrect", questions: questions, answers: answers)
+        return QuestionResources(
+          trueLabel: "True",falseLabel: "False",
+          cheatLabel: "Cheat",nextLabel: "Next",
+          correctLabel: "Correct",incorrectLabel: "Incorrect",
+          questions: questions, answers: answers
+        )
     }
     
     override func viewDidLoad() {
