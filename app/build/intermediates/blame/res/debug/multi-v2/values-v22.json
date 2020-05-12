@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "/Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
                     "source": "/Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/res/values-v22/values-v22.xml",

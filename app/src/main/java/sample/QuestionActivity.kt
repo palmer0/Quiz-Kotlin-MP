@@ -13,6 +13,7 @@ class QuestionActivity() : AppCompatActivity(), QuestionViewContract {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_question)
 
+
     trueButton.setOnClickListener { presenter.clickTrueButton() }
     falseButton.setOnClickListener { presenter.clickFalseButton() }
     cheatButton.setOnClickListener { presenter.clickCheatButton() }

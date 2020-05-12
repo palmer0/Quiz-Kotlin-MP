@@ -218,15 +218,6 @@ __attribute__((swift_name("QuestionModel")))
 @property int32_t quizIndex __attribute__((swift_name("quizIndex")));
 @end;
 
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("QuestionModel.Companion")))
-@interface AppQuestionModelCompanion : AppBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-@property (readonly) NSString *TAG __attribute__((swift_name("TAG")));
-@end;
-
 __attribute__((swift_name("QuestionPresenterContract")))
 @protocol AppQuestionPresenterContract
 @required
@@ -252,15 +243,6 @@ __attribute__((swift_name("QuestionPresenter")))
 @property id<AppQuestionModelContract> model __attribute__((swift_name("model")));
 @property id<AppQuestionRouterContract> router __attribute__((swift_name("router")));
 @property id<AppQuestionViewContract> view __attribute__((swift_name("view")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("QuestionPresenter.Companion")))
-@interface AppQuestionPresenterCompanion : AppBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-@property (readonly) NSString *TAG __attribute__((swift_name("TAG")));
 @end;
 
 __attribute__((objc_subclassing_restricted))
@@ -302,15 +284,6 @@ __attribute__((swift_name("QuestionRouter")))
 - (instancetype)initWithMediator:(AppAppMediator *)mediator __attribute__((swift_name("init(mediator:)"))) __attribute__((objc_designated_initializer));
 - (BOOL)getDataFromCheatScreen __attribute__((swift_name("getDataFromCheatScreen()")));
 - (void)passDataToCheatScreenAnswer:(BOOL)answer __attribute__((swift_name("passDataToCheatScreen(answer:)")));
-@end;
-
-__attribute__((objc_subclassing_restricted))
-__attribute__((swift_name("QuestionRouter.Companion")))
-@interface AppQuestionRouterCompanion : AppBase
-+ (instancetype)alloc __attribute__((unavailable));
-+ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
-+ (instancetype)companion __attribute__((swift_name("init()")));
-@property (readonly) NSString *TAG __attribute__((swift_name("TAG")));
 @end;
 
 __attribute__((objc_subclassing_restricted))

@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Thu Apr 23 20:21:53 WEST 2020
-0.base=/Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/build/intermediates/transforms/dexMerger/debug/0
-0.path=classes.dex
-count=1
+#Tue May 12 09:42:13 WEST 2020
 0.baseType=DIRECTORY
+0.base=/Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
 0.set=DEX
+count=1

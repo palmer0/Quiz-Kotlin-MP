@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/2665e9c72e860cfc59c22c9f709c6498/AndroidManifest.xml:17:1-22:12
@@ -30,25 +30,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/Luis/.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/cef02ccff77081cca4c0322278eceffa/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/841f03ef32f6aa403ae009eeae74468d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
 	package
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:3:11-27
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:3:11-27
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:5:5-17:19
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:5:5-17:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:22:5-89
@@ -58,31 +58,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/0c4e7e276d9f597e68df242f400f991e/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:8:13-39
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:8:13-39
 	android:label
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:7:13-45
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:7:13-45
 	android:allowBackup
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:9:13-44
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:9:13-44
 activity#sample.QuestionActivity
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:9-16:20
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:9-16:20
 	android:name
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:19-57
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:10:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:11:13-15:29
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:11:13-15:29
 action#android.intent.action.MAIN
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:17-69
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:17-69
 	android:name
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:25-66
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:12:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:17-77
+ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:17-77
 	android:name
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:27-74
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml:14:27-74
 uses-sdk
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/a8b3ec3d652a6e91c97ecdd8052939ae/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/Luis/.gradle/caches/transforms-2/files-2.1/22d95aad3ffe8b9580c3e1a87ab62854/AndroidManifest.xml:5:5-7:41
@@ -135,13 +135,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/841f03ef32f6aa403ae009eeae74468d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/Luis/.gradle/caches/transforms-2/files-2.1/9e55cf694f9b710a0a0dc3657103a1e4/AndroidManifest.xml:20:5-44
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Luis/Documents/Kotlin-Multiplatform/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Luis/Documents/Android-DA/Quiz-Kotlin-MP/app/src/main/AndroidManifest.xml
